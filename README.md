@@ -5,6 +5,6 @@ Esse diretório é direcionado para os meus estudo de C#, cursos realizados dent
 ## Organização do conteúdo.
 [Descrição](#estudos-c#)
 
-[primeiros passos](#parte 1:-primeiros-passos)
+[primeiros passos](#C#-parte 1:-primeiros-passos)
 
 ## C# parte 1: primeiros passos
