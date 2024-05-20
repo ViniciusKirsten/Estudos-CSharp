@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\bin\Debug\net8.0\10-Switch.exe
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\bin\Debug\net8.0\10-Switch.deps.json
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\bin\Debug\net8.0\10-Switch.runtimeconfig.json
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\bin\Debug\net8.0\10-Switch.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\bin\Debug\net8.0\10-Switch.pdb
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\obj\Debug\net8.0\10-Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\obj\Debug\net8.0\10-Switch.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\obj\Debug\net8.0\10-Switch.AssemblyInfo.cs
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\obj\Debug\net8.0\10-Switch.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\obj\Debug\net8.0\10-Switch.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\obj\Debug\net8.0\refint\10-Switch.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\obj\Debug\net8.0\10-Switch.pdb
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\obj\Debug\net8.0\10-Switch.genruntimeconfig.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\10-Switch\obj\Debug\net8.0\ref\10-Switch.dll

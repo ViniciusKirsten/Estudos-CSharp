@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\bin\Debug\net8.0\CriandoVeriaveisPontosFlutuante.exe
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\bin\Debug\net8.0\CriandoVeriaveisPontosFlutuante.deps.json
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\bin\Debug\net8.0\CriandoVeriaveisPontosFlutuante.runtimeconfig.json
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\bin\Debug\net8.0\CriandoVeriaveisPontosFlutuante.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\bin\Debug\net8.0\CriandoVeriaveisPontosFlutuante.pdb
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\obj\Debug\net8.0\CriandoVeriaveisPontosFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\obj\Debug\net8.0\CriandoVeriaveisPontosFlutuante.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\obj\Debug\net8.0\CriandoVeriaveisPontosFlutuante.AssemblyInfo.cs
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\obj\Debug\net8.0\CriandoVeriaveisPontosFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\obj\Debug\net8.0\CriandoVeriaveisPontosFlutuante.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\obj\Debug\net8.0\refint\CriandoVeriaveisPontosFlutuante.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\obj\Debug\net8.0\CriandoVeriaveisPontosFlutuante.pdb
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\obj\Debug\net8.0\CriandoVeriaveisPontosFlutuante.genruntimeconfig.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\CriandoVeriaveisPontosFlutuante\obj\Debug\net8.0\ref\CriandoVeriaveisPontosFlutuante.dll

@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\bin\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.exe
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\bin\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.deps.json
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\bin\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.runtimeconfig.json
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\bin\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\bin\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.pdb
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\obj\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\obj\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\obj\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\obj\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\obj\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\obj\Debug\net8.0\refint\12-CalculaInverstimentoLongoPrazo.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\obj\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.pdb
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\obj\Debug\net8.0\12-CalculaInverstimentoLongoPrazo.genruntimeconfig.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\CalculaInverstimentoLongoPrazo\obj\Debug\net8.0\ref\12-CalculaInverstimentoLongoPrazo.dll

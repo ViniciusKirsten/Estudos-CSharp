@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\bin\Debug\net8.0\UtilizandoOperacaoRestoDe.exe
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\bin\Debug\net8.0\UtilizandoOperacaoRestoDe.deps.json
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\bin\Debug\net8.0\UtilizandoOperacaoRestoDe.runtimeconfig.json
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\bin\Debug\net8.0\UtilizandoOperacaoRestoDe.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\bin\Debug\net8.0\UtilizandoOperacaoRestoDe.pdb
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\obj\Debug\net8.0\UtilizandoOperacaoRestoDe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\obj\Debug\net8.0\UtilizandoOperacaoRestoDe.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\obj\Debug\net8.0\UtilizandoOperacaoRestoDe.AssemblyInfo.cs
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\obj\Debug\net8.0\UtilizandoOperacaoRestoDe.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\obj\Debug\net8.0\UtilizandoOperacaoRestoDe.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\obj\Debug\net8.0\refint\UtilizandoOperacaoRestoDe.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\obj\Debug\net8.0\UtilizandoOperacaoRestoDe.pdb
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\obj\Debug\net8.0\UtilizandoOperacaoRestoDe.genruntimeconfig.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\UtilizandoOperacaoRestoDe\obj\Debug\net8.0\ref\UtilizandoOperacaoRestoDe.dll

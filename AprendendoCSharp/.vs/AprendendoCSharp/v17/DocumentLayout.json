@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{753C9542-5DA9-44CE-9A29-56D56342314C}|UtilizandoOperacaoRestoDe\\UtilizandoOperacaoRestoDe.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\utilizandooperacaorestode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753C9542-5DA9-44CE-9A29-56D56342314C}|UtilizandoOperacaoRestoDe\\UtilizandoOperacaoRestoDe.csproj|solutionrelative:utilizandooperacaorestode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD4159A-22A6-4AE2-9D3F-851246657102}|13-ForEncadeado\\13-ForEncadeado.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\13-forencadeado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD4159A-22A6-4AE2-9D3F-851246657102}|13-ForEncadeado\\13-ForEncadeado.csproj|solutionrelative:13-forencadeado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2CB66-F84D-45A6-BA39-0147754616AF}|CalculaInverstimentoLongoPrazo\\CalculaInverstimentoLongoPrazo.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\calculainverstimentolongoprazo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E2CB66-F84D-45A6-BA39-0147754616AF}|CalculaInverstimentoLongoPrazo\\CalculaInverstimentoLongoPrazo.csproj|solutionrelative:calculainverstimentolongoprazo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22BC741D-B691-4958-8C36-5CDCD3E77025}|11-CalculaPoupanca2\\11-CalculaPoupanca2.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\11-calculapoupanca2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22BC741D-B691-4958-8C36-5CDCD3E77025}|11-CalculaPoupanca2\\11-CalculaPoupanca2.csproj|solutionrelative:11-calculapoupanca2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8EFCBC-CCA4-4A1C-878C-B5379283CC1E}|10-CalculaPoupanca\\10-CalculaPoupanca.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\10-calculapoupanca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB8EFCBC-CCA4-4A1C-878C-B5379283CC1E}|10-CalculaPoupanca\\10-CalculaPoupanca.csproj|solutionrelative:10-calculapoupanca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB8EFCBC-CCA4-4A1C-878C-B5379283CC1E}|10-CalculaPoupanca\\10-CalculaPoupanca.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\10-calculapoupanca\\10-calculapoupanca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB8EFCBC-CCA4-4A1C-878C-B5379283CC1E}|10-CalculaPoupanca\\10-CalculaPoupanca.csproj|solutionrelative:10-calculapoupanca\\10-calculapoupanca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C11A840-0EE4-4C8B-A3D2-08DBF9FD8E98}|10-Switch\\10-Switch.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\10-switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C11A840-0EE4-4C8B-A3D2-08DBF9FD8E98}|10-Switch\\10-Switch.csproj|solutionrelative:10-switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D85309F-6347-4668-9B97-4B728B5725CB}|9-Escopo\\9-Escopo.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\9-escopo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D85309F-6347-4668-9B97-4B728B5725CB}|9-Escopo\\9-Escopo.csproj|solutionrelative:9-escopo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A03E14-896A-4F78-92B5-4EDD088F151E}|8-Condicionais2\\8-Condicionais2.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\8-condicionais2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A03E14-896A-4F78-92B5-4EDD088F151E}|8-Condicionais2\\8-Condicionais2.csproj|solutionrelative:8-condicionais2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7BB508-562E-481B-8C6C-8393F0DDB19C}|7-Condicionais\\7-Condicionais.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\7-condicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7BB508-562E-481B-8C6C-8393F0DDB19C}|7-Condicionais\\7-Condicionais.csproj|solutionrelative:7-condicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9588B686-6493-4B27-8D6B-69B4D38D41EF}|6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\6-atribuicoesdevariaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9588B686-6493-4B27-8D6B-69B4D38D41EF}|6-AtribuicoesDeVariaveis\\6-AtribuicoesDeVariaveis.csproj|solutionrelative:6-atribuicoesdevariaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF0140B-497C-4B98-9DB9-F31C6C3DB752}|5-CaracteresETextos\\5-CaracteresETextos.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\5-caracteresetextos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF0140B-497C-4B98-9DB9-F31C6C3DB752}|5-CaracteresETextos\\5-CaracteresETextos.csproj|solutionrelative:5-caracteresetextos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB2BF83-E14A-4CA4-9413-8F1F0B6E9312}|4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\4-conversoeseoutrostiposnumericos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB2BF83-E14A-4CA4-9413-8F1F0B6E9312}|4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj|solutionrelative:4-conversoeseoutrostiposnumericos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E870E77B-9D72-4DDC-99AB-EA04FC2CD452}|3-CriandoVeriaveisPontoFlutuante\\3-CriandoVeriaveisPontoFlutuante.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\3-criandoveriaveispontoflutuante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E870E77B-9D72-4DDC-99AB-EA04FC2CD452}|3-CriandoVeriaveisPontoFlutuante\\3-CriandoVeriaveisPontoFlutuante.csproj|solutionrelative:3-criandoveriaveispontoflutuante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73038CDC-540A-4FBC-8D93-74E97241606A}|2-CriandoVariaveis\\2-CriandoVariaveis.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\2-criandovariaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73038CDC-540A-4FBC-8D93-74E97241606A}|2-CriandoVariaveis\\2-CriandoVariaveis.csproj|solutionrelative:2-criandovariaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623F443F-2CAD-42E4-A31C-6805AD8DC768}|1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj|c:\\users\\vinic\\source\\repos\\aprendendocsharp\\1-primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623F443F-2CAD-42E4-A31C-6805AD8DC768}|1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj|solutionrelative:1-primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\UtilizandoOperacaoRestoDe\\Program.cs",
+              "RelativeDocumentMoniker": "UtilizandoOperacaoRestoDe\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\UtilizandoOperacaoRestoDe\\Program.cs",
+              "RelativeToolTip": "UtilizandoOperacaoRestoDe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:23:50.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\13-ForEncadeado\\Program.cs",
+              "RelativeDocumentMoniker": "13-ForEncadeado\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\13-ForEncadeado\\Program.cs",
+              "RelativeToolTip": "13-ForEncadeado\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:02:04.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\CalculaInverstimentoLongoPrazo\\Program.cs",
+              "RelativeDocumentMoniker": "CalculaInverstimentoLongoPrazo\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\CalculaInverstimentoLongoPrazo\\Program.cs",
+              "RelativeToolTip": "CalculaInverstimentoLongoPrazo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:43:25.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\11-CalculaPoupanca2\\Program.cs",
+              "RelativeDocumentMoniker": "11-CalculaPoupanca2\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\11-CalculaPoupanca2\\Program.cs",
+              "RelativeToolTip": "11-CalculaPoupanca2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:31:16.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\10-CalculaPoupanca\\Program.cs",
+              "RelativeDocumentMoniker": "10-CalculaPoupanca\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\10-CalculaPoupanca\\Program.cs",
+              "RelativeToolTip": "10-CalculaPoupanca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:17:46.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "10-CalculaPoupanca",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\10-CalculaPoupanca\\10-CalculaPoupanca.csproj",
+              "RelativeDocumentMoniker": "10-CalculaPoupanca\\10-CalculaPoupanca.csproj",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\10-CalculaPoupanca\\10-CalculaPoupanca.csproj",
+              "RelativeToolTip": "10-CalculaPoupanca\\10-CalculaPoupanca.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T12:17:38.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\10-Switch\\Program.cs",
+              "RelativeDocumentMoniker": "10-Switch\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\10-Switch\\Program.cs",
+              "RelativeToolTip": "10-Switch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:03:41.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\9-Escopo\\Program.cs",
+              "RelativeDocumentMoniker": "9-Escopo\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\9-Escopo\\Program.cs",
+              "RelativeToolTip": "9-Escopo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:48:12.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\8-Condicionais2\\Program.cs",
+              "RelativeDocumentMoniker": "8-Condicionais2\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\8-Condicionais2\\Program.cs",
+              "RelativeToolTip": "8-Condicionais2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:39:03.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\7-Condicionais\\Program.cs",
+              "RelativeDocumentMoniker": "7-Condicionais\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\7-Condicionais\\Program.cs",
+              "RelativeToolTip": "7-Condicionais\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:30:47.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\Program.cs",
+              "RelativeDocumentMoniker": "6-AtribuicoesDeVariaveis\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\6-AtribuicoesDeVariaveis\\Program.cs",
+              "RelativeToolTip": "6-AtribuicoesDeVariaveis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:26:41.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\5-CaracteresETextos\\Program.cs",
+              "RelativeDocumentMoniker": "5-CaracteresETextos\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\5-CaracteresETextos\\Program.cs",
+              "RelativeToolTip": "5-CaracteresETextos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:28:48.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\4-ConversoesEOutrosTiposNumericos\\Program.cs",
+              "RelativeDocumentMoniker": "4-ConversoesEOutrosTiposNumericos\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\4-ConversoesEOutrosTiposNumericos\\Program.cs",
+              "RelativeToolTip": "4-ConversoesEOutrosTiposNumericos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:57:12.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\3-CriandoVeriaveisPontoFlutuante\\Program.cs",
+              "RelativeDocumentMoniker": "3-CriandoVeriaveisPontoFlutuante\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\3-CriandoVeriaveisPontoFlutuante\\Program.cs",
+              "RelativeToolTip": "3-CriandoVeriaveisPontoFlutuante\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:39:46.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\2-CriandoVariaveis\\Program.cs",
+              "RelativeDocumentMoniker": "2-CriandoVariaveis\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\2-CriandoVariaveis\\Program.cs",
+              "RelativeToolTip": "2-CriandoVariaveis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:21:14.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\1-PrimeiroProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "1-PrimeiroProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\AprendendoCSharp\\1-PrimeiroProjeto\\Program.cs",
+              "RelativeToolTip": "1-PrimeiroProjeto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:25:11.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

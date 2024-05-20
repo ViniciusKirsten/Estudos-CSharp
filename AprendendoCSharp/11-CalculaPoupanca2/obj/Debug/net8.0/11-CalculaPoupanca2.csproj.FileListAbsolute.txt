@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\net8.0\11-CalculaPoupanca2.exe
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\net8.0\11-CalculaPoupanca2.deps.json
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\net8.0\11-CalculaPoupanca2.runtimeconfig.json
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\net8.0\11-CalculaPoupanca2.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\net8.0\11-CalculaPoupanca2.pdb
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\net8.0\11-CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\net8.0\11-CalculaPoupanca2.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\net8.0\11-CalculaPoupanca2.AssemblyInfo.cs
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\net8.0\11-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\net8.0\11-CalculaPoupanca2.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\net8.0\refint\11-CalculaPoupanca2.dll
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\net8.0\11-CalculaPoupanca2.pdb
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\net8.0\11-CalculaPoupanca2.genruntimeconfig.cache
+C:\Users\vinic\source\repos\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\net8.0\ref\11-CalculaPoupanca2.dll
