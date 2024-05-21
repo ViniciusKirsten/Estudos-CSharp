@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\bin\Debug\net8.0\05-ByteBank.exe
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\bin\Debug\net8.0\05-ByteBank.deps.json
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\bin\Debug\net8.0\05-ByteBank.runtimeconfig.json
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\bin\Debug\net8.0\05-ByteBank.dll
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\bin\Debug\net8.0\05-ByteBank.pdb
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\obj\Debug\net8.0\05-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\obj\Debug\net8.0\05-ByteBank.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\obj\Debug\net8.0\05-ByteBank.AssemblyInfo.cs
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\obj\Debug\net8.0\05-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\obj\Debug\net8.0\05-ByteBank.dll
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\obj\Debug\net8.0\refint\05-ByteBank.dll
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\obj\Debug\net8.0\05-ByteBank.pdb
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\obj\Debug\net8.0\05-ByteBank.genruntimeconfig.cache
+C:\Users\vinic\source\repos\ByteBank\5-ByteBank\obj\Debug\net8.0\ref\05-ByteBank.dll
