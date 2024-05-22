@@ -27,8 +27,8 @@ Esse diretório são os arquivos gerados dos cursos de C# da plataforma Alura.
 ## C# parte 3: entendendo herança e interface
 - [X] Conhecendo o problema do cliente.
 - [X] Herança.
-- [ ] Construtores e protected.
-- [ ] Mais herança e herança múltipla.
+- [X] Construtores e protected.
+- [X] Mais herança e herança múltipla.
 - [ ] Interfaces.
 
 ## C# parte 4: entendendo exceções
