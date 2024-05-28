@@ -1,57 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\",
+  "WorkspaceRootPath": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\sistemas\\iautenticaveldois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\sistemas\\iautenticaveldois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\sistemas\\autenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\sistemas\\autenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\funcionarios\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\funcionarios\\auxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\funcionarios\\desenvolvedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\funcionarios\\desenvolvedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\funcionarios\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\funcionarios\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\funcionarios\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\funcionarios\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\funcionarios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\funcionarios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\funcionarios\\funcionarioautenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\funcionarios\\funcionarioautenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\funcionarios\\gerentedeconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\funcionarios\\gerentedeconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\sistemas\\parceirocomercial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\sistemas\\parceirocomercial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\sistemas\\sistemainterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\sistemas\\sistemainterno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\gerenciadorbonificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\gerenciadorbonificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinic\\source\\repos\\bytebankplus\\bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|c:\\users\\vinicius.kirsten\\desktop\\arquivos\\estudos\\estudos-csharp\\bytebankplus\\bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58F934C8-0DAC-4C9C-A45F-90D6B77232EA}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,175 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ParceiroComercial.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Sistemas\\ParceiroComercial.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Sistemas\\ParceiroComercial.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Sistemas\\ParceiroComercial.cs",
-              "RelativeToolTip": "ByteBank\\Sistemas\\ParceiroComercial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T17:53:36.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GerenteDeConta.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\GerenteDeConta.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Funcionarios\\GerenteDeConta.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\GerenteDeConta.cs",
-              "RelativeToolTip": "ByteBank\\Funcionarios\\GerenteDeConta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T14:40:47.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\Funcionario.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Funcionarios\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\Funcionario.cs",
-              "RelativeToolTip": "ByteBank\\Funcionarios\\Funcionario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T20:12:25.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FuncionarioAutenticavel.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\FuncionarioAutenticavel.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Funcionarios\\FuncionarioAutenticavel.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\FuncionarioAutenticavel.cs",
-              "RelativeToolTip": "ByteBank\\Funcionarios\\FuncionarioAutenticavel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T18:03:00.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IAutenticavelDois.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Sistemas\\IAutenticavelDois.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Sistemas\\IAutenticavelDois.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Sistemas\\IAutenticavelDois.cs",
-              "RelativeToolTip": "ByteBank\\Sistemas\\IAutenticavelDois.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T17:50:30.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Autenticavel.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Sistemas\\Autenticavel.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Sistemas\\Autenticavel.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Sistemas\\Autenticavel.cs",
-              "RelativeToolTip": "ByteBank\\Sistemas\\Autenticavel.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T14:46:18.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Designer.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\Designer.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Funcionarios\\Designer.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\Designer.cs",
-              "RelativeToolTip": "ByteBank\\Funcionarios\\Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T14:41:31.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Diretor.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\Diretor.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Funcionarios\\Diretor.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\Diretor.cs",
-              "RelativeToolTip": "ByteBank\\Funcionarios\\Diretor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T20:12:26.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Desenvolvedor.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\Desenvolvedor.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Funcionarios\\Desenvolvedor.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\Desenvolvedor.cs",
-              "RelativeToolTip": "ByteBank\\Funcionarios\\Desenvolvedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T13:14:30.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Auxiliar.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\Auxiliar.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Funcionarios\\Auxiliar.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Funcionarios\\Auxiliar.cs",
-              "RelativeToolTip": "ByteBank\\Funcionarios\\Auxiliar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T14:41:07.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SistemaInterno.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Sistemas\\SistemaInterno.cs",
-              "RelativeDocumentMoniker": "ByteBank\\Sistemas\\SistemaInterno.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Sistemas\\SistemaInterno.cs",
-              "RelativeToolTip": "ByteBank\\Sistemas\\SistemaInterno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T13:56:59.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GerenciadorBonificacao.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\GerenciadorBonificacao.cs",
-              "RelativeDocumentMoniker": "ByteBank\\GerenciadorBonificacao.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\GerenciadorBonificacao.cs",
-              "RelativeToolTip": "ByteBank\\GerenciadorBonificacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T20:12:24.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlus\\ByteBank\\Program.cs",
               "RelativeDocumentMoniker": "ByteBank\\Program.cs",
-              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\Program.cs",
+              "ToolTip": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlus\\ByteBank\\Program.cs",
               "RelativeToolTip": "ByteBank\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAkwC0AAAAyAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T20:12:22.955Z",
+              "WhenOpened": "2024-05-26T18:09:57.474Z",
               "EditorCaption": ""
             }
           ]

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vinic\\.nuget\\packages\\": {}
+    "C:\\Users\\vinicius.kirsten\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\ByteBank.csproj",
+      "projectUniqueName": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlus\\ByteBank\\ByteBank.csproj",
       "projectName": "ByteBank",
-      "projectPath": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\ByteBank.csproj",
-      "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinic\\source\\repos\\ByteBankPlus\\ByteBank\\obj\\",
+      "projectPath": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlus\\ByteBank\\ByteBank.csproj",
+      "packagesPath": "C:\\Users\\vinicius.kirsten\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlus\\ByteBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vinicius.kirsten\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

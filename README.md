@@ -29,10 +29,10 @@ Esse diretório são os arquivos gerados dos cursos de C# da plataforma Alura.
 - [X] Herança.
 - [X] Construtores e protected.
 - [X] Mais herança e herança múltipla.
-- [ ] Interfaces.
+- [X] Interfaces.
 
 ## C# parte 4: entendendo exceções
-- [ ] Primeiros passos com exceções.
+- [X] Primeiros passos com exceções.
 - [ ] Tratamento de exceções.
 - [ ] ArgumentException ParamName e nameof.
 - [ ] Criando exceções ricas.
