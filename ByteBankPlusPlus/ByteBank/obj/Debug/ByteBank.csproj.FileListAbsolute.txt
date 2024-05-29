@@ -1,0 +1,7 @@
+C:\Users\vinicius.kirsten\Desktop\ARQUIVOS\Estudos\Estudos-CSharp\ByteBankPlusPlus\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\vinicius.kirsten\Desktop\ARQUIVOS\Estudos\Estudos-CSharp\ByteBankPlusPlus\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\vinicius.kirsten\Desktop\ARQUIVOS\Estudos\Estudos-CSharp\ByteBankPlusPlus\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\vinicius.kirsten\Desktop\ARQUIVOS\Estudos\Estudos-CSharp\ByteBankPlusPlus\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\vinicius.kirsten\Desktop\ARQUIVOS\Estudos\Estudos-CSharp\ByteBankPlusPlus\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.kirsten\Desktop\ARQUIVOS\Estudos\Estudos-CSharp\ByteBankPlusPlus\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\vinicius.kirsten\Desktop\ARQUIVOS\Estudos\Estudos-CSharp\ByteBankPlusPlus\ByteBank\obj\Debug\ByteBank.pdb

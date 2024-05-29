@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|c:\\users\\vinicius.kirsten\\desktop\\arquivos\\estudos\\estudos-csharp\\bytebankplusplus\\bytebank\\leitordearquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\leitordearquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|c:\\users\\vinicius.kirsten\\desktop\\arquivos\\estudos\\estudos-csharp\\bytebankplusplus\\bytebank\\operacaofinanceiraexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\operacaofinanceiraexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|c:\\users\\vinicius.kirsten\\desktop\\arquivos\\estudos\\estudos-csharp\\bytebankplusplus\\bytebank\\saldoinsuficienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\saldoinsuficienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|c:\\users\\vinicius.kirsten\\desktop\\arquivos\\estudos\\estudos-csharp\\bytebankplusplus\\bytebank\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|c:\\users\\vinicius.kirsten\\desktop\\arquivos\\estudos\\estudos-csharp\\bytebankplusplus\\bytebank\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\bytebank\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|c:\\users\\vinicius.kirsten\\desktop\\arquivos\\estudos\\estudos-csharp\\bytebankplusplus\\bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E67EBBD9-038D-4176-B441-CD1E9C96FA7F}|ByteBank\\ByteBank.csproj|solutionrelative:bytebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeitorDeArquivos.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\LeitorDeArquivos.cs",
+              "RelativeDocumentMoniker": "ByteBank\\LeitorDeArquivos.cs",
+              "ToolTip": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\LeitorDeArquivos.cs",
+              "RelativeToolTip": "ByteBank\\LeitorDeArquivos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:16:51.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "OperacaoFinanceiraException.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\OperacaoFinanceiraException.cs",
+              "RelativeDocumentMoniker": "ByteBank\\OperacaoFinanceiraException.cs",
+              "ToolTip": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\OperacaoFinanceiraException.cs",
+              "RelativeToolTip": "ByteBank\\OperacaoFinanceiraException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:35:37.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaldoInsuficienteException.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\SaldoInsuficienteException.cs",
+              "RelativeDocumentMoniker": "ByteBank\\SaldoInsuficienteException.cs",
+              "ToolTip": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\SaldoInsuficienteException.cs",
+              "RelativeToolTip": "ByteBank\\SaldoInsuficienteException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:09:11.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\Program.cs",
               "RelativeDocumentMoniker": "ByteBank\\Program.cs",
               "ToolTip": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\Program.cs",
               "RelativeToolTip": "ByteBank\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T18:54:59.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ContaCorrente.cs",
               "DocumentMoniker": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\ContaCorrente.cs",
               "RelativeDocumentMoniker": "ByteBank\\ContaCorrente.cs",
               "ToolTip": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\ContaCorrente.cs",
               "RelativeToolTip": "ByteBank\\ContaCorrente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAkwHAAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T18:54:47.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\Cliente.cs",
               "RelativeDocumentMoniker": "ByteBank\\Cliente.cs",
               "ToolTip": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\Cliente.cs",
               "RelativeToolTip": "ByteBank\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T18:54:44.823Z",
               "EditorCaption": ""
