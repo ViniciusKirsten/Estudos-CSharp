@@ -46,8 +46,7 @@
               "RelativeToolTip": "ByteBank\\LeitorDeArquivos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T19:16:51.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T19:16:51.708Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "ByteBank\\OperacaoFinanceiraException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T18:35:37.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T18:35:37.251Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "ByteBank\\SaldoInsuficienteException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T16:09:11.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T16:09:11.606Z"
             },
             {
               "$type": "Document",
@@ -83,7 +80,7 @@
               "RelativeDocumentMoniker": "ByteBank\\Program.cs",
               "ToolTip": "C:\\Users\\vinicius.kirsten\\Desktop\\ARQUIVOS\\Estudos\\Estudos-CSharp\\ByteBankPlusPlus\\ByteBank\\Program.cs",
               "RelativeToolTip": "ByteBank\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD8AAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T18:54:59.802Z",
               "EditorCaption": ""
@@ -98,8 +95,7 @@
               "RelativeToolTip": "ByteBank\\ContaCorrente.cs",
               "ViewState": "AQIAAFsAAAAAAAAAAAAkwHAAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T18:54:47.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T18:54:47.069Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "ByteBank\\Cliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T18:54:44.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T18:54:44.823Z"
             }
           ]
         }

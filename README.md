@@ -40,8 +40,8 @@ Esse diretório são os arquivos gerados dos cursos de C# da plataforma Alura.
 - [X] Finally e using.
 
  # C# parte 5: bibliotecas DLLs, documentação e usando o NuGet
- - [ ] Projeto de biblioteca.
- - [ ] Modificadores de acesso em bibliotecas.
- - [ ] Referencia de DLL.
- - [ ] Documentando.
- - [ ] NuGet.
+ - [X] Projeto de biblioteca.
+ - [X] Modificadores de acesso em bibliotecas.
+ - [X] Referencia de DLL.
+ - [X] Documentando.
+ - [X] NuGet.
