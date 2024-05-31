@@ -33,11 +33,11 @@ Esse diretório são os arquivos gerados dos cursos de C# da plataforma Alura.
 
 ## C# parte 4: entendendo exceções
 - [X] Primeiros passos com exceções.
-- [ ] Tratamento de exceções.
-- [ ] ArgumentException ParamName e nameof.
-- [ ] Criando exceções ricas.
-- [ ] StackTrace e InnerException.
-- [ ] Finally e using.
+- [X] Tratamento de exceções.
+- [X] ArgumentException ParamName e nameof.
+- [X] Criando exceções ricas.
+- [X] StackTrace e InnerException.
+- [X] Finally e using.
 
  # C# parte 5: bibliotecas DLLs, documentação e usando o NuGet
  - [ ] Projeto de biblioteca.

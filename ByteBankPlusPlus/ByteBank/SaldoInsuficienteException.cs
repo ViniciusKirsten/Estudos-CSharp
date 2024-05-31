@@ -23,11 +23,13 @@ namespace ByteBank
         public SaldoInsuficienteException(string mensagem, Exception excecaoInterna) : base(mensagem, excecaoInterna) { }
 
         public SaldoInsuficienteException(double saldo, double valorSaque) //Com o "this" estamos chamando o contrutor dessa classe e não da outra
-            : this("A tentativa de saque foi "+valorSaque+", com saldo em conta no valor de: "+saldo)
+            : this("A tentativa de saque foi " + valorSaque + ", com saldo em conta no valor de: " + saldo)
         {
             Saldo = saldo;
             ValorSaque = valorSaque;
 
         }
+
+        
     }
 }

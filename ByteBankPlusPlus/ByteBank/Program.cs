@@ -25,7 +25,7 @@ namespace ByteBank
             catch (ArgumentException e) //"e" é o nome do nosso objeto, por conveção sempre utilizamos a descrição como "e".
             {
                 //aqui ele vai se orientar pelo erro de argumento que vai dentro do construtor ou método
-                Console.WriteLine("Argumento com problema: "+ e.ParamName);
+                Console.WriteLine("Argumento com problema: " + e.ParamName);
                 Console.WriteLine("Ocorreu um erro do tipo ArgumentException");
                 Console.WriteLine(e.Message);
             }
@@ -53,7 +53,16 @@ namespace ByteBank
         }
         private static void CarregarContas()
         {
-                LeitorDeArquivo leitor = null;
+            //MODO MAIS FACIL DE EXECUTAR, UTILIZANDO RECURSOS DO C#
+            //Por debaixo dos panos, esse "using" vai fazer toda a parte do (try/catch/finally) utilizando os recursos da interface
+            using (LeitorDeArquivo leitor2 = new LeitorDeArquivo("teste.txt"))
+            {
+                //"IDisposable" é uma interface do C#
+                leitor2.LerProximaLinha();
+            }
+            
+            //MODO MAIS VERBAL SEM UTILIZAR OS RECUSOS DO C#
+            LeitorDeArquivo leitor = null;
             try
             {
                 leitor = new LeitorDeArquivo("Contas.txt");
@@ -61,21 +70,23 @@ namespace ByteBank
                 leitor.LerProximaLinha();
                 leitor.LerProximaLinha();
                 leitor.LerProximaLinha();
-                
+
             }
-            catch (IOException) 
-            { 
+            catch (IOException)
+            {
                 Console.WriteLine("Exceção do tipo IOException capturada e tratada!");
-            }finally //bloco finally, sempre vai executar, mesmo que não estando descrito
-                     //diretamente. Ele vai executar mesmo depois do try ou depois de um
-                     //catch ele sempre vai executar
+            }
+            finally //bloco finally, sempre vai executar, mesmo que não estando descrito
+                    //diretamente. Ele vai executar mesmo depois do try ou depois de um
+                    //catch ele sempre vai executar
             {
                 if (leitor != null)
-                
-                    leitor.Fechar();//utilizo aqui para não precisar escrever em ambas as opções (try e catch)
+                {
+
+                    //leitor.Fechar();//utilizo aqui para não precisar escrever em ambas as opções (try e catch)
                 }
+
             }
-            
         }
         private static void TestaInnerException()
         {
@@ -124,6 +135,4 @@ namespace ByteBank
             }
         }
     }
-
-
 }
